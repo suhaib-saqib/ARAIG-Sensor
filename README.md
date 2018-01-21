@@ -9,7 +9,7 @@ This program applies object oriented programming principles and uses STL, Data S
 
 **Output**:
 
-![sample output](./Images/"Sample Output2.JPG" "Sample Output")
-![sample output](./Images/"Sample Output.JPG" "Sample Output")
+![sample output](./Images/Sample Output2.JPG "Sample Output")
+![sample output](./Images/Sample Output.JPG "Sample Output")
 
 Click <a href="https://github.com/suhaib-saqib/ARAIG-Sensor/SampleOutput.txt">here</a> to a text file of the sample output. 
