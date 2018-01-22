@@ -12,4 +12,4 @@ This program applies object oriented programming principles and uses STL, Data S
 ![sample output](./Images/SampleOutput2.JPG "Sample Output")
 ![sample output](./Images/SampleOutput.JPG "Sample Output")
 
-Click <a href="https://github.com/suhaib-saqib/ARAIG-Sensor/SampleOutput.txt">here</a> to a text file of the sample output. 
+Click <a href="https://github.com/suhaib-saqib/ARAIG-Sensor/blob/master/SampleOutput.txt">here</a> to a text file of the sample output. 
